@@ -31,7 +31,7 @@ class medicoScreen extends StatelessWidget {
             SizedBox(height: 20),
             ElevatedButton(
               onPressed: () {
-                // Accion de login médico
+                
               },
               child: Text('Entrar como Médico'),
             ),
